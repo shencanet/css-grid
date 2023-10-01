@@ -1,0 +1,12 @@
+.contenedor{
+    border: 5px solid #e1bee7;
+    background-color: #fff1ff;/**/
+    display: grid; /*dice como se va a comportar en el inspector aparece etiqueta grid al pulsar se enumeran las filas*/
+    grid-template-columns:100px 200px 300px ;/*me perimte definir las columnas van a tener y ancho*/
+    grid-template-rows: 150px 250px 350px;/*me perimte definir las filas van a tener y ancho*/
+}
+
+.item {
+    border: 5px solid #00bcd4;
+    font-size: 4rem;
+}
