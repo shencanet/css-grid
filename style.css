@@ -9,6 +9,6 @@
 }
 
 .item{
-    border: 5px solid #e1bee7;
-    font-size: 4rem;
+    border: 5px solid #e1bee7;/*color de borde*/
+    font-size: 4rem;/*tamaño de letra*/
 }
