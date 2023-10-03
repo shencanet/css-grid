@@ -6,6 +6,8 @@
     grid-template-rows: 100px 200px;/*me perimte definir las filas van a tener y ancho*/
     grid-auto-columns: 100px;/*me perimte definir las filas van a tener y ancho*/
     grid-auto-flow: column;/*me perimte definir las filas van a tener y ancho*/
+    height: 600px;/*alto del contenedor*/
+    width: 600px;/*ancho del contenedor*/
 }
 
 .item{
