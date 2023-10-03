@@ -12,3 +12,11 @@
     border: 5px solid #e1bee7;/*color de borde*/
     font-size: 4rem;/*tamaño de letra*/
 }
+
+/*
+justify-item me permite alinear los elementos en el eje x
+align-item me permite alinear los elementos en el eje y
+justify-content me permite alinear los elementos en el eje x
+align-content me permite alinear los elementos en el eje y
+place-items me permite alinear los elementos en el eje x y y
+*/
