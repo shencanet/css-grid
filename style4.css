@@ -15,17 +15,24 @@
 .item-1{
     border: 5px solid #f8bbd0;
     background-color: ffeeff;
+    grid-column-start:1 ;/*1 valor columna*/
+    grid-column-end: 4;/*2 valor columna*/
+
 
 }
 
 .item-2{
     border: 5px solid #f8bbd0;
     background-color: fff1ff;
+    grid-row: 2 / 4; /*2 valores fila*/
+
     
 }
 
 .item-3{
     border: 5px solid #f8bbd0;
     background-color: e5ffff;
+    grid-area: 2 / 2 / 4 / 4;  /*4 valores area*/
+
     
 }
