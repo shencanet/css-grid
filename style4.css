@@ -4,6 +4,9 @@
     display: grid;
     grid-template-columns: 150px 150px 150px;
     grid-template-rows: 75px 75px 75px;
+    grid-template-areas: header header header/*1 valor fila*/
+                         side main main/*2 valor fila*/
+                         side main main;/*3 valor fila*/
     place-content: center;
 
 }
