@@ -4,4 +4,19 @@
     main{
         max-width: 1200px;
         margin: 0 auto;
+        border: 3px solid black;
+    }
+
+    .hero{
+        
+        display: grid  ;
+        grid-template-columns: 2fr 3fr;
+        
+    }
+
+    .hero-image{
+        
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
     }
