@@ -23,6 +23,32 @@
 
     .info{
         align-self: center;
-        
+
 
     }
+
+    .info-title {
+        color: #333;
+        font-size: 3rem;
+        font-weight: bolder;
+        margin-bottom: 24px;
+
+
+    }
+
+
+.info-subtitle {
+    color: #333;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    margin-bottom: 24px;
+}
+
+.info-button {
+    border: none;
+    border-radius: 20px;
+    color: #333;
+    background-color: #fb8c00;
+    font-weight: bolder;
+    padding: 12px 24px;
+}
